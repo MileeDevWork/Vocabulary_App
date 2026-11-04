@@ -1,0 +1,10 @@
+{
+  "name": "vocabularyapp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "App learning vocabulary and practice Toiec",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
